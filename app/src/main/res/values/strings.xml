@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="um">1</string>
+    <string name="dois">2</string>
+    <string name="tres">3</string>
+    <string name="mais">+</string>
+    <string name="quatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="menos">-</string>
+    <string name="sete">7</string>
+    <string name="oito">8</string>
+    <string name="nove">9</string>
+    <string name="mult">x</string>
+    <string name="zero">0</string>
+    <string name="limpar">c</string>
+    <string name="igual">=</string>
+    <string name="div">÷</string>
+    <string name="apagar">del</string>
+    <string name="ponto">.</string>
+</resources>
